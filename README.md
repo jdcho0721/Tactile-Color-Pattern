@@ -122,3 +122,16 @@ README.md
 1. Cho, Jun Dong, et al. "Tactile colour pictogram to improve artwork appreciation of people with visual impairments." *Color Research & Application* 46.1 (2021): 103–116. https://doi.org/10.1002/col.22567
 2. Cavazos Quero, Luis, Jorge Iranzo Bartolomé, Seonggu Lee, Sunhee Kim, and Jundong Cho. "An Interactive Multimodal Guide to Improve Art Accessibility for Blind People." *Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '18)* (2018): 346–348.
 3. 조준동, 성균관대학교 휴먼ICT융합 연구센터. 『촉각 칼라 북 — 시각장애인들의 칼라 이해를 돕는 촉각 명화 감상』.
+
+---
+
+## 저작권
+
+**훈맹정색 訓盲正色 — 천지인 칼라 패턴 짝 맞추기 (Hunmaeng Jeongsaek)**
+© 2026 조준동 (趙浚東, Jun-Dong Cho). All rights reserved.
+
+- 천지인 칼라 패턴과 촉각 무늬 그림의 출처는 『촉각 칼라 북』(조준동, 성균관대학교 휴먼ICT융합 연구센터)입니다.
+- 본 작품은 **휴마톨로지(Humartology)** 철학, 곧 인간(Human)·예술(Art)·기술(Technology)의 융합에 기반합니다.
+- 코드·무늬 그림·명화 선화·해설 글 등 모든 콘텐츠를 허락 없이 복제·배포·수정할 수 없습니다.
+- 교육·연구·비영리 전시에 쓰려면 작가에게 먼저 문의해 주세요 (jdcho@skku.edu).
+- 명화 원작(고흐, 피카소, 마티스, 칼로, 고갱)의 권리는 각 원작 권리자에게 있습니다.
